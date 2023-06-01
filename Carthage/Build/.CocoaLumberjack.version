@@ -1,0 +1,25 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "a2c63f2aff8b293fdeef6c9cda76a3717e963603",
+  "iOS" : [
+    {
+      "name" : "CocoaLumberjack",
+      "hash" : "e3b186a3bb4a2f492a143e9bb318601321bf04f98ae419dd2d51308404db1c0c",
+      "linking" : "dynamic"
+    },
+    {
+      "hash" : "25a43b195c5a12079f99107dd5a052248d710d6a01f8177ea40515658b2f7d0a",
+      "name" : "CocoaLumberjackSwift",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+    }
+  ]
+}
