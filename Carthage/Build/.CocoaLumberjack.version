@@ -8,7 +8,7 @@
   "tvOS" : [
 
   ],
-  "commitish" : "a2c63f2aff8b293fdeef6c9cda76a3717e963603",
+  "commitish" : "918ff32dc424a6e83c333db9b81eb07f78dbe6a0",
   "iOS" : [
     {
       "name" : "CocoaLumberjack",
